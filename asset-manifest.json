@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BreakingBad-Cast/static/css/main.04b7df6d.chunk.css",
+    "main.js": "/BreakingBad-Cast/static/js/main.80d3b63f.chunk.js",
+    "main.js.map": "/BreakingBad-Cast/static/js/main.80d3b63f.chunk.js.map",
+    "runtime-main.js": "/BreakingBad-Cast/static/js/runtime-main.e844cbcd.js",
+    "runtime-main.js.map": "/BreakingBad-Cast/static/js/runtime-main.e844cbcd.js.map",
+    "static/js/2.005fcb9d.chunk.js": "/BreakingBad-Cast/static/js/2.005fcb9d.chunk.js",
+    "static/js/2.005fcb9d.chunk.js.map": "/BreakingBad-Cast/static/js/2.005fcb9d.chunk.js.map",
+    "index.html": "/BreakingBad-Cast/index.html",
+    "precache-manifest.4abd077be186d9bbe89615e99dc50e94.js": "/BreakingBad-Cast/precache-manifest.4abd077be186d9bbe89615e99dc50e94.js",
+    "service-worker.js": "/BreakingBad-Cast/service-worker.js",
+    "static/css/main.04b7df6d.chunk.css.map": "/BreakingBad-Cast/static/css/main.04b7df6d.chunk.css.map",
+    "static/js/2.005fcb9d.chunk.js.LICENSE.txt": "/BreakingBad-Cast/static/js/2.005fcb9d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BreakingBad-Cast/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/BreakingBad-Cast/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/BreakingBad-Cast/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e844cbcd.js",
+    "static/js/2.005fcb9d.chunk.js",
+    "static/css/main.04b7df6d.chunk.css",
+    "static/js/main.80d3b63f.chunk.js"
+  ]
+}
